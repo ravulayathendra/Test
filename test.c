@@ -16,11 +16,12 @@
  * =====================================================================================
  */
 
-#include <studio.in>
+#include <stdio.h>
 
 int
-main(int argc.char **argv){
+main(int argc,char **argv){
 
     printf("Hello World");
+    printf("Lets Go");
     return 0;
 }
