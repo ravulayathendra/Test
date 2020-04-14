@@ -21,7 +21,7 @@
 int
 main(int argc,char **argv){
 
-    printf("Hello World");
-    printf("Lets Go");
+    printf("Hello World\n");
+    printf("Lets Go\n");
     return 0;
 }
